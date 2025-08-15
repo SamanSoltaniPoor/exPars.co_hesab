@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://hesab.expars.co/sitemap.xml
-Sitemap: https://hesab.expars.co/sitemap-main.xml
