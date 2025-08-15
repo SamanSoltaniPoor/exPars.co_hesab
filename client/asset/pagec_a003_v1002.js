@@ -1,0 +1,1 @@
+import{_ as o,r as a,g as n,o as s,w as r,h as c,t as _}from"./index_v1002.js";const f={};function i(e,l){const t=a("f271");return s(),n(t,null,{default:r(()=>[c(_(e.g.a.store.init),1)]),_:1})}const d=o(f,[["render",i]]);export{d as default};
