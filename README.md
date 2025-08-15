@@ -1,1 +1,0 @@
-# exPars.co_hesab
